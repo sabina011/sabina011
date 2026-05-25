@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabina Shrestha</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate Flutter developer from Nepal</h3>
 <img align="left" alt="coding" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 - 🔭 I’m currently working on **Travel App**
 
